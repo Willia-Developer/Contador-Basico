@@ -1,2 +1,3 @@
 # Contador
-Contador básico...testando aprendizado
+Contador básico com estilo...
+# Teste em progresso..
